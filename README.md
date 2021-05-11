@@ -141,7 +141,7 @@ _이텔릭_
 
 [![heropy](https://heropy.blog/css/images/logo.png)](https://heropy.blog/)
 
-[![Ray](https://user-images.githubusercontent.com/42025150/117795081-20a7e780-b24e-11eb-87d0-97b6895bfe63.jpg)](https://instagram.jinrayho)
+[![Ray](https://user-images.githubusercontent.com/42025150/117795081-20a7e780-b24e-11eb-87d0-97b6895bfe63.jpg)](https://instagram.com/jinrayho)
 
 # 인용문 (BlockQuote)
 
@@ -575,13 +575,8 @@ fixed | 뷰포트 | X
 
 
 # 수평선 (Horizontal Rule)
- 
- 
 ---
- 
 ***
-
-
 ___
 
 
